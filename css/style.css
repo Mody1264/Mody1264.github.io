@@ -2,5 +2,20 @@ body{
  padding-top: 70px;
 }
 nav{
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Pacifico', cursive;
+	font-size: 250%;
+	background-color: blue;
 }
+body {
+    background-color: gray;
+}
+p{
+	font-family: 'Pacifico', cursive;
+	font-size: 500%;
+	color:black;
+	background-color: silver;
+}
+img{
+	width: 100%
+}
+s
